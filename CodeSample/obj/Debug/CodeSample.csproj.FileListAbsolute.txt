@@ -1,0 +1,14 @@
+E:\CodeSample\CodeSample\bin\Debug\CodeSample.exe.config
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.csprojResolveAssemblyReference.cache
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.AddContent.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.Menu.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.Properties.Resources.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.TopicModifier.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.csproj.GenerateResource.Cache
+E:\CodeSample\CodeSample\bin\Debug\CodeSample.exe
+E:\CodeSample\CodeSample\bin\Debug\CodeSample.pdb
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.exe
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.pdb
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.ShowTopic.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.ShowContent.resources
+E:\CodeSample\CodeSample\obj\Debug\CodeSample.AddTopic.resources
